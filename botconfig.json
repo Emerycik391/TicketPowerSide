@@ -1,0 +1,59 @@
+{
+
+  "token": "NjExOTQ2MTk5NzI5MDQ1NTI1.XxViXw.W_ukqoS-RSD08m3Z9NC-Mo9mZHQ", 
+  "prefix": "@",
+
+  "host": "IP", 
+  "user": "login-do-bazt",
+  "password": "wklejtutaj", 
+  "database": "essentialmode", 
+
+  "wlcommand": "dodaj", 
+  "guildidwl": "ID-kanalu", 
+  "kanalwl": "ID-kanalu", 
+
+  "kanalst": "692272753515954256",
+  "wiadomoscst": "692283859496337469", 
+  "ipst": "151.80.47.145:30120",
+  "maksst": "70",
+  "kolorst": "0, 255, 0",
+  "nazwafoost": "XLifeRP.PL",
+  "nazwaglst": "XLifeRP.PL",
+  "url": "http://151.80.47.145:30120/players.json",
+  
+
+
+  "kategoriatic": "",
+  "roleidtic": "", 
+  "komendatic": "", 
+  "logitic": "", 
+
+  "roladev": "rola-z-discorda", 
+  "iddev": "ID-kanalu",
+  "komendadev": "dev", 
+
+  "rolehex": "rola-z-discorda",
+  "komendahex": "hex",
+
+  "rolaogl": "rola-z-discorda",
+  "idogl": "ID-kanalu", 
+  "komendaogl": "ogloszenie", 
+
+  "rolapoll": "rola-z-discorda",
+  "komendapoll": "poll",
+
+  "kanalprop": "Turysta",
+  "komendaprop": "propozycja",
+
+  "rolasay": "rola-z-discorda",
+  "komendasay": "say",
+  
+  "kanalstatuswiad": "lista-graczy",
+    "sloty": "70",
+
+  "rolars": "rola-z-discorda",
+  "komendars": "restart"
+
+ 
+ 
+}
